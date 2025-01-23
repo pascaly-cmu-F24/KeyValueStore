@@ -1,0 +1,10 @@
+# vscode shii
+*.vscode
+
+# intermediary units
+*.o
+*-pre.c
+
+# build
+build
+/cmake-build-debug/
